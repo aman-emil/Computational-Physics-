@@ -4,7 +4,7 @@ A modular, standalone Python numerical methods and computational physics library
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 Each module is organized into its own folder according to its python filename:
 
@@ -34,7 +34,7 @@ Each module is organized into its own folder according to its python filename:
 
 ---
 
-## 🚀 Module Overview & Key Functions
+##  Module Overview & Key Functions
 
 ### 1. `lin_alg/` — Linear Algebra
 Provides linear system solvers, matrix decompositions, and vector operations.
@@ -95,7 +95,7 @@ import a_man_lib as aml
 
 ---
 
-## 💻 Quick Usage Examples
+##  Quick Usage Examples
 
 ### Using Individual Modules
 ```python
@@ -121,7 +121,7 @@ print("Square root of 2:", root)
 
 ---
 
-## 🛠️ Git Instructions for Uploading
+##  Git Instructions for Uploading
 
 To initialize and upload this repository to your GitHub/Git remote:
 
