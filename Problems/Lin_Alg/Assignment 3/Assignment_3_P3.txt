@@ -1,0 +1,15 @@
+# Name : Aman Kumar Singh
+# Roll_No : 2411124
+
+
+Cholesky Decomposition Matrix
+[2.0, 0, 0, 0]
+[0.5, 1.6583123951777, 0, 0]
+[0.5, -0.753778361444409, 1.087114613009218, 0]
+[0.5, 0.45226701686664544, 0.08362420100070905, 1.2403473458920844]
+
+ resulting solution for vector x is
+value of x_0 is 0.0000
+value of x_1 is 1.0000
+value of x_2 is 1.0000
+value of x_3 is 1.0000

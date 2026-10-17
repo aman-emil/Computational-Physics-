@@ -1,0 +1,13 @@
+# Name - Aman Kumar Singh
+# Roll no. - 2411124
+
+# output of problem 3
+
+
+iteration count to find braket 5
+
+total no. of iteration are 22
+value of root using bisection is -0.7390849560546873 with f(root) value is -2.964978876862645e-07
+
+total no. of iteration are 6
+value of root using Regula Falsi is -0.7390850545962979 with f(root) value is -1.315774721399876e-07

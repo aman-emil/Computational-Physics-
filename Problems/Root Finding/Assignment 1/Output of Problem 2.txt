@@ -1,0 +1,11 @@
+# Name - Aman Kumar Singh
+# Roll no. - 2411124
+
+# output of problem 2
+
+total no. of iteration are 18
+value of root using bisection is 2.623140335083008 with f(root) value is 7.154571934897547e-10
+
+
+total no. of iteration are 5
+value of root using Regula Falsi is 2.62314050689124 with f(root) value is -3.4720778063768165e-07
