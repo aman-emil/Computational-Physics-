@@ -118,30 +118,3 @@ df = lambda x: 2 * x
 root = aml.Nwt_Raph(f, df, 1.0)
 print("Square root of 2:", root)
 ```
-
----
-
-##  Git Instructions for Uploading
-
-To initialize and upload this repository to your GitHub/Git remote:
-
-1. **Initialize Git repository**:
-   ```bash
-   git init -b main
-   ```
-
-2. **Stage and commit all files**:
-   ```bash
-   git add .
-   git commit -m "feat: organize computational physics library into modular packages"
-   ```
-
-3. **Link to your remote GitHub repository**:
-   ```bash
-   git remote add origin https://github.com/<your-username>/<your-repo-name>.git
-   ```
-
-4. **Push to GitHub**:
-   ```bash
-   git push -u origin main
-   ```
